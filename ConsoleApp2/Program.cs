@@ -8,6 +8,7 @@ namespace ConsoleApp2
            
         {
             int r = 5;
+
             while(true)
             Console.WriteLine("Athul");
         }
